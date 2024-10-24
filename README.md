@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Whosthisguy21.
+- 👋 Hi, I’m Kurt.
 I'm currently a student in Computer Programming/Analysis.
-
-- 👀 I’m interested in front & back end developing...
-- 🌱
 
 <!---
 Whosthisguy21/Whosthisguy21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
